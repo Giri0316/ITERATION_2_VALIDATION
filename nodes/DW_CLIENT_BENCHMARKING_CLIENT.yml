@@ -628,7 +628,7 @@ operation:
           columnCounter: fcj5ta6u-2uyP-4ecF-a012-789012345678
           stepCounter: f4a3b2c1-d0e9-4876-5432-10fedcba9876
         config: {}
-        dataType: NUMBER
+        dataType: VARCHAR
         description: ""
         name: IPO
         nullable: true
@@ -1301,4 +1301,5 @@ operation:
   sqlType: Stage
   type: sql
   version: 1
+
 type: Node
